@@ -1,0 +1,97 @@
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Release\Terminarz.exe.config
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Release\Terminarz.exe
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Release\Terminarz.pdb
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\LoginWPF.g.cs
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\RegisterWPF.g.cs
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz_MarkupCompile.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz_MarkupCompile.lref
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\LoginWPF.baml
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\RegisterWPF.baml
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.g.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.Login.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.Properties.Resources.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.exe
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.pdb
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz_Content.g.cs
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.EventAdd.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.EventAddType.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.EventsForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.GroupAdd.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.GroupAddUser.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.GroupPage.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.GroupsForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.HelpForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.InfoForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.MainWindow.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.ProfileForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.ProfileUser.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.SettingsForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Release\Terminarz.csproj.CopyComplete
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Release\Terminarz.exe.config
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Release\Terminarz.exe
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Release\Terminarz.pdb
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\LoginWPF.g.cs
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\RegisterWPF.g.cs
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz_Content.g.cs
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz_MarkupCompile.cache
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz_MarkupCompile.lref
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\LoginWPF.baml
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\RegisterWPF.baml
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.g.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.EventAdd.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.EventAddType.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.EventsForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.GroupAdd.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.GroupAddUser.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.GroupPage.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.GroupsForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.HelpForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.InfoForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.Login.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.MainWindow.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.ProfileForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.ProfileUser.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.Properties.Resources.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.SettingsForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.csproj.CopyComplete
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.exe
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Release\Terminarz.pdb
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Release\Terminarz.exe.config
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Release\Terminarz.exe
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Release\Terminarz.pdb
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\LoginWPF.g.cs
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\RegisterWPF.g.cs
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz_Content.g.cs
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz_MarkupCompile.cache
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz_MarkupCompile.lref
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\LoginWPF.baml
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\RegisterWPF.baml
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.g.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.EventAdd.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.EventAddType.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.EventsForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.GroupAdd.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.GroupAddUser.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.GroupPage.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.GroupsForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.HelpForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.InfoForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.Login.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.MainWindow.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.ProfileForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.ProfileUser.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.Properties.Resources.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.SettingsForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.csproj.GenerateResource.cache
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.csproj.CoreCompileInputs.cache
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.csproj.CopyComplete
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.exe
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Release\Terminarz.pdb

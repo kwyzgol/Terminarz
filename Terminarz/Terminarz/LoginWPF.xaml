@@ -1,0 +1,29 @@
+﻿<UserControl x:Name="LoginWPFControl" x:Class="Terminarz.LoginWPF"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Terminarz"
+             mc:Ignorable="d" Height="418" Width="296" MouseDown="LoginWPFControl_MouseDown" MouseMove="LoginWPFControl_MouseMove" MouseUp="LoginWPFControl_MouseUp" KeyDown="LoginWPFControl_KeyDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="261*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" Stroke="#FF3498DB" VerticalAlignment="Top" Width="277" RadiusX="50" RadiusY="50" Grid.ColumnSpan="2"/>
+        <Label x:Name="title" Content="Logowanie" HorizontalAlignment="Left" Margin="27.692,30,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="32" Foreground="#FF3498DB" FontWeight="Bold" Grid.Column="1"/>
+        <Label x:Name="titleLogin" Content="Login:" HorizontalAlignment="Left" Margin="27.692,185,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Century Gothic" Foreground="#FF3498DB" Grid.Column="1"/>
+        <Label x:Name="titlePassword" Content="Hasło:" HorizontalAlignment="Left" Margin="27.692,217,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Century Gothic" Foreground="#FF3498DB" RenderTransformOrigin="0.864,1.079" Grid.Column="1"/>
+        <TextBox x:Name="loginEdit" HorizontalAlignment="Left" Height="23" Margin="87.692,191,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.338,0.681" Foreground="#FF3498DB" MaxLength="25" MaxLines="1" FontWeight="Bold" FontSize="16" Grid.Column="1" FontFamily="Century Gothic" KeyDown="loginEdit_KeyDown"/>
+        <Image x:Name="loginImage" HorizontalAlignment="Left" Height="100" Margin="70.692,84,0,0" VerticalAlignment="Top" Width="100" Source="logowanie_1.png" Grid.Column="1"/>
+        <PasswordBox x:Name="passwordEdit" HorizontalAlignment="Left" Margin="87.692,223,0,0" VerticalAlignment="Top" Width="120" Height="23" Foreground="#FF3498DB" FontSize="16" Grid.Column="1" MaxLength="25" FontFamily="Century Gothic" KeyDown="passwordEdit_KeyDown"/>
+        <Button x:Name="loginButton" Content="Zaloguj" HorizontalAlignment="Left" Margin="87.692,259,0,0" VerticalAlignment="Top" Width="75" Background="White" Foreground="#FF3498DB" FontSize="16" Grid.Column="1" Click="loginButton_Click"/>
+        <Image x:Name="loginIcon" HorizontalAlignment="Left" Height="27" Margin="172.692,257,0,0" VerticalAlignment="Top" Width="35" Source="icons8-login-27_1.png" RenderTransformOrigin="-0.149,0.378" Grid.Column="1"/>
+        <Button x:Name="goRegisterButton" Content="Zarejestruj się" HorizontalAlignment="Left" Margin="42.692,323,0,0" VerticalAlignment="Top" Width="120" Background="White" Foreground="#FF3498DB" FontSize="16" Grid.Column="1" Click="goRegisterButton_Click"/>
+        <Button x:Name="exitButton" Content="Wyjście" HorizontalAlignment="Left" Margin="42.692,361,0,0" VerticalAlignment="Top" Width="120" Background="White" Foreground="#FF3498DB" FontSize="16" RenderTransformOrigin="1.029,0.433" Click="exitButton_Click" Grid.Column="1"/>
+        <Label x:Name="titleLogin_Copy" Content="Nie posiadasz konta?" HorizontalAlignment="Left" Margin="27.692,295,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Century Gothic" Foreground="#FF3498DB" Grid.Column="1"/>
+        <Image x:Name="registrationlcon" HorizontalAlignment="Left" Height="27" Margin="167.692,323,0,0" VerticalAlignment="Top" Width="35" Source="icons8-registration-27_1.png" RenderTransformOrigin="-0.149,0.378" Grid.Column="1"/>
+        <Image x:Name="exitIcon" HorizontalAlignment="Left" Height="27" Margin="167.692,361,0,0" VerticalAlignment="Top" Width="35" Source="icons8-exit-27_1.png" RenderTransformOrigin="-0.149,0.378" Grid.Column="1"/>
+
+    </Grid>
+</UserControl>

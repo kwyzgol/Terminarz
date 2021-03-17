@@ -1,0 +1,112 @@
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Debug\Terminarz.exe.config
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Debug\Terminarz.exe
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Debug\Terminarz.pdb
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.Properties.Resources.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.exe
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.pdb
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\LoginWPF.g.cs
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.lref
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\LoginWPF.baml
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.g.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.Login.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\bin\Debug\Terminarz.exe.config
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\bin\Debug\Terminarz.exe
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\bin\Debug\Terminarz.pdb
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\LoginWPF.g.cs
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.lref
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\LoginWPF.baml
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.g.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.Login.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.Properties.Resources.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.exe
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\Backup\3\Terminarz\Terminarz\obj\Debug\Terminarz.pdb
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\RegisterWPF.g.cs
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\RegisterWPF.baml
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.MainWindow.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.CopyComplete
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.EventsForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.GroupsForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.HelpForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.InfoForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.ProfileForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.SettingsForm.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.EventAddType.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.EventAdd.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.GroupAdd.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.GroupPage.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.GroupAddUser.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz.ProfileUser.resources
+C:\Users\Kamil\Desktop\PWŚZ projekt 2\VS\Terminarz\Terminarz\obj\Debug\Terminarz_Content.g.cs
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Debug\Terminarz.exe.config
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Debug\Terminarz.exe
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Debug\Terminarz.pdb
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\LoginWPF.g.cs
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\RegisterWPF.g.cs
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz_Content.g.cs
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.cache
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.lref
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\LoginWPF.baml
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\RegisterWPF.baml
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.g.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.EventAdd.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.EventAddType.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.EventsForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.GroupAdd.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.GroupAddUser.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.GroupPage.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.GroupsForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.HelpForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.InfoForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.Login.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.MainWindow.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.ProfileForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.ProfileUser.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.Properties.Resources.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.SettingsForm.resources
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.CopyComplete
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.exe
+C:\Users\kamil\Desktop\TMP\Terminarz - projekt\Terminarz\Terminarz\obj\Debug\Terminarz.pdb
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Debug\Terminarz.exe.config
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Debug\Terminarz.exe
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Debug\Terminarz.pdb
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\LoginWPF.g.cs
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\RegisterWPF.g.cs
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz_Content.g.cs
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.cache
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz_MarkupCompile.lref
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\LoginWPF.baml
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\RegisterWPF.baml
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.g.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.EventAdd.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.EventAddType.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.EventsForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.GroupAdd.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.GroupAddUser.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.GroupPage.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.GroupsForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.HelpForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.InfoForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.Login.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.MainWindow.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.ProfileForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.ProfileUser.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.Properties.Resources.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.SettingsForm.resources
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.GenerateResource.cache
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.CoreCompileInputs.cache
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.csproj.CopyComplete
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.exe
+D:\Repozytoria\Terminarz\Terminarz\Terminarz\obj\Debug\Terminarz.pdb
